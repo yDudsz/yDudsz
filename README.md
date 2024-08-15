@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yDudsz
-- 👀 I’m interested in Cybersecurity
-- 🌱 I’m currently learning Ethical Hacking
-- 💞️ I’m looking to collaborate on areas that need cybersecurity to be improved and improve my own skills
+- 👀 I’m interested in 
+- 🌱 I’m currently learning 
+- 💞️ I’m looking to collaborate on areas 
 - 📫 How to reach me eduardoamaraldalves@gmail.com
 
 <!---
